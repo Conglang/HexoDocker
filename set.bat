@@ -1,0 +1,1 @@
+docker run --rm -v %~dp0blog:/blog -p 4000:4000 -it hexoblog
