@@ -2,6 +2,7 @@
 Generate hexo blog automatically on docker.
 
 **A Teacher's Day present for my dear Teacher Jin. Hope you find it handy and useful.**
+
 Host machine is Windows and Hexo theme preset to Edinburgh, which is good for my teacher's art gallery.
 
 ## Usage
@@ -15,6 +16,7 @@ Host machine is Windows and Hexo theme preset to Edinburgh, which is good for my
 7. In case anything goes suspicious, run rm.bat.
 
 A folder named blog will be created in the same folder of run.bat. It is mapped to path /blog in Docker. Better edit on the host machine.
+
 Learn some basic Hexo command and Markdown syntax and you are ready to go.
 
 Have a nice time writing blog!
